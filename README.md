@@ -185,7 +185,7 @@ This project integrates with **DeepSeek AI API** for **AI-enhanced treatment rec
 
 ---
 
-## **Results and Visualizations**
+## **Results and Visualizations (e.g. Random Forest)**
 ### **1️⃣ Feature Importance**
 [Feature Importance](https://github.com/user-attachments/assets/f45f9a84-cc86-4b66-b583-d2e1a8625ff0)
 
