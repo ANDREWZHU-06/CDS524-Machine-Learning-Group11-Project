@@ -4,7 +4,7 @@
 # **Diabetes Detection System - Machine Learning Project**
 
 ## **Introduction**
-This repository contains a **Machine Learning-based Diabetes Detection System**, developed as a group project for **CDS524 - Machine Learning for Business** at **LU**. The project aims to predict diabetes risk based on clinical and demographic data using multiple machine learning models, including **Logistic Regression, Random Forest, Gradient Boosting, SVM, Neural Networks, and XGBoost**.  
+This repository contains a **Machine Learning-based Diabetes Detection System**, developed as a group project for **CDS524 - Machine Learning for Business** at **Lingnan University**. The project aims to predict diabetes risk based on clinical and demographic data using multiple machine learning models, including **Logistic Regression, Random Forest, Gradient Boosting, SVM, Neural Networks, and XGBoost**.  
 
 The system provides:
 - **Diabetes risk prediction** based on clinical data.
@@ -202,11 +202,13 @@ This project integrates with **DeepSeek AI API** for **AI-enhanced treatment rec
 
 ## **Contributors**
 👨‍💻 **Team Members**  
-- **Zhujun** - Project Lead & Machine Learning Engineer  
-- **[Your Name]** - Data Preprocessing & Feature Engineering  
-- **[Your Name]** - Model Training & Evaluation  
-- **[Your Name]** - Web App Development  
-- **[Your Name]** - API Integration & Deployment  
+- **ZHU Jun** 
+- **[ZHAO Tailai]**  
+- **[ZHAO Yuhao]**  
+- **[ZHANG Tianze]** 
+- **[LAW Hoi]**
+- **[OU Lefeng]**
+- **[CHEN Jiaqi]** 
 
 ---
 
