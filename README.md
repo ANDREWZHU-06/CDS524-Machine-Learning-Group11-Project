@@ -187,10 +187,10 @@ This project integrates with **DeepSeek AI API** for **AI-enhanced treatment rec
 
 ## **Results and Visualizations**
 ### **1️⃣ Feature Importance**
-[Feature Importance](results/feature_importance_rf.png)
+[Feature Importance]('/Users/zhujun/LU/Term-2/CDS524-Machine Learning for Business/Group Project/GPv1/results/feature_importance_rf.png')
 
 ### **2️⃣ Model Performance Comparison**
-[Model Comparison](results/model_comparison.png)
+[Model Comparison]('/Users/zhujun/LU/Term-2/CDS524-Machine Learning for Business/Group Project/GPv1/results/model_comparison.png')
 
 ### **3️⃣ Confusion Matrix**
 [Confusion Matrix](results/Random_Forest_confusion_matrix.png)
