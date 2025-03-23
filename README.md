@@ -203,15 +203,15 @@ This project integrates with **DeepSeek AI API** for **AI-enhanced treatment rec
 ## **Contributors**
 👨‍💻 **Team Members**  
 - **ZHU Jun** 
-- **[ZHAO Tailai]**  
-- **[ZHAO Yuhao]**  
-- **[ZHANG Tianze]** 
-- **[LAW Hoi]**
-- **[OU Lefeng]**
-- **[CHEN Jiaqi]** 
+- **ZHAO Tailai**  
+- **ZHAO Yuhao**  
+- **ZHANG Tianze**
+- **OU Lefeng**
+- **LAW Hoi**
+- **CHEN Jiaqi** 
 
 ---
 
 ## **License**
-📜 **MIT License**  
+**MIT License**  
 This project is open-source and available for free use under the MIT License.
