@@ -94,12 +94,7 @@ source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
 ```
 
-### **3️⃣ Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **4️⃣ Run the application**
+### **3️⃣ Run the application**
 ```bash
 streamlit run app_v2.py
 ```
