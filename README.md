@@ -1,5 +1,3 @@
-# CDS524-Machine-Learning-Group11-Project
-
 # **Diabetes Detection System - Machine Learning Project**
 
 ## **Introduction**
