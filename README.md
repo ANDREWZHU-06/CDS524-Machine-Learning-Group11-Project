@@ -187,16 +187,20 @@ This project integrates with **DeepSeek AI API** for **AI-enhanced treatment rec
 
 ## **Results and Visualizations**
 ### **1️⃣ Feature Importance**
-[Feature Importance]('/Users/zhujun/LU/Term-2/CDS524-Machine Learning for Business/Group Project/GPv1/results/feature_importance_rf.png')
+[Feature Importance](![feature_importance_rf](https://github.com/user-attachments/assets/f45f9a84-cc86-4b66-b583-d2e1a8625ff0)
+)
 
 ### **2️⃣ Model Performance Comparison**
-[Model Comparison]('/Users/zhujun/LU/Term-2/CDS524-Machine Learning for Business/Group Project/GPv1/results/model_comparison.png')
+[Model Comparison](![model_comparison](https://github.com/user-attachments/assets/4143ba3f-88ba-446e-80c6-61b1f1f20ece)
+)
 
 ### **3️⃣ Confusion Matrix**
-[Confusion Matrix](results/Random_Forest_confusion_matrix.png)
+[Confusion Matrix](![Random_Forest_confusion_matrix](https://github.com/user-attachments/assets/220a7044-1db5-4c17-ac68-2b5e425acd02)
+)
 
 ### **4️⃣ ROC Curve**
-[ROC Curve](results/Random_Forest_roc_curve.png)
+[ROC Curve](![Random_Forest_roc_curve](https://github.com/user-attachments/assets/bf9e8cab-9364-49ac-b8c3-628fdf8f73c9)
+)
 
 ---
 
