@@ -94,7 +94,12 @@ source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
 ```
 
-### **3️⃣ Run the application**
+### **3️⃣ Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+### **4️⃣ Run the application**
 ```bash
 streamlit run app_v2.py
 ```
@@ -131,6 +136,7 @@ This will launch a **web application** for real-time diabetes risk assessment.
 │── 📜 api_v1.py             # API integration for treatment recommendations
 │── 📜 app_v2.py             # Streamlit Web App for Diabetes Risk Assessment
 │── 📜 README.md             # Documentation
+│── 📜 requirements.txt      # Python dependencies
 ```
 
 ---
