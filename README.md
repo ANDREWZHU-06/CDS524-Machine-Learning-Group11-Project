@@ -187,8 +187,7 @@ This project integrates with **DeepSeek AI API** for **AI-enhanced treatment rec
 
 ## **Results and Visualizations**
 ### **1️⃣ Feature Importance**
-[Feature Importance](https://github.com/user-attachments/assets/f45f9a84-cc86-4b66-b583-d2e1a8625ff0)
-)
+https://github.com/user-attachments/assets/f45f9a84-cc86-4b66-b583-d2e1a8625ff0
 
 ### **2️⃣ Model Performance Comparison**
 [Model Comparison](![model_comparison](https://github.com/user-attachments/assets/4143ba3f-88ba-446e-80c6-61b1f1f20ece)
