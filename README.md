@@ -131,7 +131,6 @@ This will launch a **web application** for real-time diabetes risk assessment.
 │── 📜 api_v1.py             # API integration for treatment recommendations
 │── 📜 app_v2.py             # Streamlit Web App for Diabetes Risk Assessment
 │── 📜 README.md             # Documentation
-│── 📜 requirements.txt      # Python dependencies
 ```
 
 ---
