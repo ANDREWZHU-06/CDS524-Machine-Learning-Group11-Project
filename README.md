@@ -108,7 +108,7 @@ streamlit run app_v2.py
 ## **Usage**
 ### **1️⃣ Running the Machine Learning Pipeline**
 ```bash
-python main(1).py
+python main.py
 ```
 This script will:
 - Load and preprocess the dataset.
@@ -131,7 +131,7 @@ This will launch a **web application** for real-time diabetes risk assessment.
 │── 📂 results/              # Visualization and model performance reports
 │── 📂 data/                 # Dataset files (CSV)
 │── 📂 notebooks/            # Jupyter notebooks for EDA and model training
-│── 📜 main(1).py            # Core ML pipeline (data processing, training, evaluation)
+│── 📜 main.py               # Core ML pipeline (data processing, training, evaluation)
 │── 📜 api_v1.py             # API integration for treatment recommendations
 │── 📜 app_v2.py             # Streamlit Web App for Diabetes Risk Assessment
 │── 📜 README.md             # Documentation
