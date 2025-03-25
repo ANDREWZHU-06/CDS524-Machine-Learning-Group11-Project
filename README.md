@@ -1,5 +1,7 @@
 # **Diabetes Detection System - Machine Learning Project**
 
+Youtube Link: https://www.youtube.com/watch?v=IVGqXb4Y06Y
+
 ## **Introduction**
 This repository contains a **Machine Learning-based Diabetes Detection System**, developed as a group project for **CDS524 - Machine Learning for Business** at **Lingnan University**. The project aims to predict diabetes risk based on clinical and demographic data using multiple machine learning models, including **Logistic Regression, Random Forest, Gradient Boosting, SVM, Neural Networks, and XGBoost**.  
 
